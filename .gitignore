@@ -1,4 +1,8 @@
 .vscode/
+.vs/
+Debug/
 a.out
 test
+*.sln
+*.vcxproj*
 
